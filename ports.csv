@@ -36,10 +36,10 @@ port_elizabeth,Port Elizabeth,south_africa,8750,1,1
 cape_town,Cape Town,south_africa,12250,1,1
 port_sudan,Port Sudan,sudan,3500,1,1
 dar_es_salaam,Dar es Salaam,tanganyika,875,1,1
-tanga,Tanga,tanganyika,875,1,1
+tanga,Tanga,tanganyika,7875,1,1
 dubai,Dubai,trucial_states,700,1,1
-aden,Aden,yemen,700,1,1
-zanzibar,Zanzibar,zanzibar,700,1,1
+aden,Aden,yemen,4700,1,1
+zanzibar,Zanzibar,zanzibar,3700,1,1
 avlona,Avlona,albania,1575,1,1
 durazzo,Durazzo,albania,1575,1,1
 mers_el_kebir,Mers el Kebir,northern_algeria,64150,1,1
@@ -65,20 +65,20 @@ piraeus,Piraeus,southern_greece,26250,1,1
 heraklion,Heraklion,crete,15250,1,1
 suda,Suda,crete,17250,1,1
 haifa,Haifa,palestine,14000,1,1
-la_spezia,La Spezia,northwest_italy,126250,1,1
+la_spezia,La Spezia,northwest_italy,120000,1,1
 livorno,Livorno,northwest_italy,100500,1,1
 ancona,Ancona,northeast_italy,35000,1,1
 gaeta,Gaeta,central_italy,95750,1,1
 naples,Naples,central_italy,35750,1,1
 bari,Bari,southern_italy,45000,1,1
-taranto,Taranto,southern_italy,45000,1,1
+taranto,Taranto,southern_italy,60000,1,1
 beirut,Beirut,lebanon,19250,1,1
 tripoli,Tripoli,tripolitania,8750,1,1
 benghazi,Benghazi,cyrenaica,6125,1,1
 tobruk,Tobruk,cyrenaica,7350,1,1
 valletta,Valletta,malta,82250,1,1
 bar,Bar,montenegro,7000,1,1
-rhodes,Rhodes,dodecanese,8750,1,1
+rhodes,Rhodes,dodecanese,10750,1,1
 constanta,Constanta,romania,12250,1,1
 cagliari,Cagliari,sardinia,13125,1,1
 olbia,Olbia,sardinia,13125,1,1
@@ -110,16 +110,16 @@ new_york,New York,eastern_usa,122500,1,1
 portland,Portland,maine,49000,1,1
 saint_john,Saint John,new_brunswick,17500,1,1
 st._john's,St. John's,new_foundland,12250,1,1
-halifax,Halifax,nova_scotia,13125,1,1
+halifax,Halifax,nova_scotia,35000,1,1
 norfolk,Norfolk,southeastern_seaboard,70000,1,1
 charleston,Charleston,southeastern_seaboard,64750,1,1
 wilmington,Wilmington,southeastern_seaboard,64750,1,1
 nome,Nome,northern_alaska,2250,1,1
 anchorage,Anchorage,southern_alaska,5250,1,1
-vancouver,Vancouver,british_columbia,26250,1,1
+vancouver,Vancouver,british_columbia,32000,1,1
 esquimalt,Esquimalt,british_columbia,22750,1,1
 dutch_harbor,Dutch Harbor,eastern_aleutians,7000,1,1
-pearl_harbor,Pearl Harbor,hawaii,70000,1,1
+pearl_harbor,Pearl Harbor,hawaii,85000,1,1
 acapulco,Acapulco,southwest_mexico,15750,1,1
 quebec,Quebec,central_canada,29750,1,1
 iqaluit,Iqaluit,northern_canada,7000,1,1
@@ -127,7 +127,7 @@ seattle,Seattle,western_usa,61250,1,1
 san_francisco,San Francisco,western_usa,73500,1,1
 san_diego,San Diego,western_usa,47250,1,1
 tallinn,Tallinn,esthonia,25000,1,1
-riga,Riga,latvia,35000,1,1
+riga,Riga,latvia,48000,1,1
 klaipeda,Klaipeda,lithuania,26250,1,1
 antwerp,Antwerp,belgium,61250,1,1
 esbjerg,Esbjerg,western_denmark,23250,1,1
@@ -156,7 +156,7 @@ bergen,Bergen,southern_norway,29750,1,1
 porto,Porto,portugal,70000,1,1
 lisbon,Lisbon,portugal,66500,1,1
 ponta_delgada,Ponta Delgada,azores,15750,1,1
-helgoland,Helgoland,heligoland,1750,1,1
+helgoland,Helgoland,heligoland,4000,1,1
 göteborg,Göteborg,western_sweden,26250,1,1
 malmö,Malmö,eastern_sweden,26250,1,1
 stockholm,Stockholm,eastern_sweden,36750,1,1
@@ -193,8 +193,8 @@ muroran,Muroran,south_hokkaido,50750,1,1
 petropavlovsk,Petropavlovsk,kamchatka,29750,1,1
 magadan,Magadan,southern_siberia,7750,1,1
 provideniya,Provideniya,eastern_siberia,5750,1,1
-tsingtau,Tsingtau,kiautschou_bay,49750,1,1
-port_arthur,Port Arthur,liaodong_peninsula,43750,1,1
+tsingtau,Tsingtau,kiautschou_bay,50500,1,1
+port_arthur,Port Arthur,liaodong_peninsula,50000,1,1
 dalian,Dalian,liaodong_peninsula,33250,1,1
 shanghai,Shanghai,eastern_china,70000,1,1
 hangzhou,Hangzhou,eastern_china,70000,1,1
@@ -204,7 +204,7 @@ chinchew,Chinchew,southern_china,34000,1,1
 xiamen,Xiamen,southern_china,30000,1,1
 gensan,Gensan,northeast_korea,43750,1,1
 nampo,Nampo,northwest_korea,43750,1,1
-vladivostok,Vladivostok,russian_far_east,68250,1,1
+vladivostok,Vladivostok,russian_far_east,72250,1,1
 moskalvo,Moskalvo,north_sakhalin,18000,1,1
 korsakov,Korsakov,south_sakhalin,28000,1,1
 pusan,Pusan,southeast_korea,47250,1,1
@@ -252,12 +252,12 @@ badar_seri_begavan,Badar Seri Begavan,brunei,875,1,1
 truk,Truk,caroline_islands,6750,1,1
 pelielu,Pelielu,caroline_islands,1750,1,1
 ponape,Ponape,caroline_islands,1750,1,1
-saigon,Saigon,cochinchina,13300,1,1
+saigon,Saigon,cochinchina,34300,1,1
 hollandia,Hollandia,dutch_new_guinea,15750,1,1
 suva,Suva,fiji,8750,1,1
 keelung,Keelung,formosa,12250,1,1
 tainan,Tainan,formosa,12250,1,1
-herbertshöhe,Herbertshöhe,german_new_guinea,3500,1,1
+herbertshöhe,Herbertshöhe,german_new_guinea,6500,1,1
 friedrich-wilhelmshafen,Friedrich-Wilhelmshafen,german_new_guinea,3500,1,1
 agana,Agana,guam,2800,1,1
 hong_kong,Hong Kong,hong_kong,19250,1,1
@@ -287,7 +287,7 @@ singapore,Singapore,singapore,83750,1,1
 honiara,Honiara,solomon_islands,12250,1,1
 belawan,Belawan,sumatra,2625,1,1
 patang,Patang,sumatra,2625,1,1
-port_moresby,Port Moresby,territory_of_papua,700,1,1
+port_moresby,Port Moresby,territory_of_papua,1500,1,1
 bangkok,Bangkok,thailand,43750,1,1
 kompong_som,Kompong Som,cambodia,10500,1,1
 nuku'alofa,Nuku'alofa,tonga,2100,1,1
@@ -354,7 +354,7 @@ lagos,Lagos,nigeria,14000,1,1
 dakar,Dakar,senegal,10500,1,1
 freetown,Freetown,sierra_leone,8225,1,1
 lüderitz,Lüderitz,southwest_africa,7875,1,1
-lome,Lome,togoland,8575,1,1
+lome,Lome,togoland,11575,1,1
 dakhla,Dakhla,western_sahara,5250,1,1
 boujdour,Boujdour,western_sahara,5250,1,1
 santa_cruz,Santa Cruz,canary_islands,13475,1,1
