@@ -38,6 +38,7 @@ Floatability_Min_Flooding_Water_Mod = +30%, Floatability_Max_Flooding_Water_Mod 
 Floatability_Min_Flooding_Slowdown_Mod = +35%, Floatability_Max_Flooding_Slowdown_Mod = -35% (Modifies “surv_flooding_slowdown_decrease”)
 Floatability_Min_WeatherDamage_Mod = +65%, Floatability_Max_WeatherDamage_Mod = -65% (Weather damage chance and mod is modified)",
 turn,,,sum,,Hull,$Stats_name_turn,"turning_slowdown(-75;15), deceleration(15;-15), operating_range(-15;15), rotation_speed(+75;-15)",,,,$Stats_desc_turn,,
+armor,,,max,,Hull,,armor_max_mod(-100; 0),,,hide,,,
 instability_z,,,auto,,Hull,$Stats_name_instability_z,"accuracy(0;-30), accuracy_waves(0;+25), accuracy_cruise(0;-25), acc_turning_self(0;+25), flooding_chance(0;+15), flooding_water(0;+10), acceleration(0;-35), rotation_speed(0;-30), turning_slowdown(0;-18), rotation_speed_change(0;-55), deceleration(0;50), operating_range(0;-15), cruise_speed_stat(0;-2.5)",,n,,$Stats_desc_instability_z,,
 instability_x,,,auto,,Hull,$Stats_name_instability_x,"accuracy(0;-40), accuracy_waves(0;+35), accuracy_cruise(0;-55), acc_turning_self(0;+70), flooding_chance(0;+25), flooding_water(0;+20), acceleration(0;-40), rotation_speed(0;-33), turning_slowdown(0;-10), rotation_speed_change(0;-55), deceleration(0;50), operating_range(0;-15), cruise_speed_stat(0;-2.5)",,n,,$Stats_desc_instability_x,,
 instability_zz,,,auto,,Hull,$Stats_name_instability_zz,"accuracy(0;-25), accuracy_waves(0;+25), accuracy_cruise(0;-55), acc_turning_self(0;+70), flooding_chance(0;+25),  flooding_water(0;+15), acceleration(0;-45), rotation_speed(0;-25), turning_slowdown(0;-10), rotation_speed_change(0;-48), deceleration(0;50), operating_range(0;-15), cruise_speed_stat(0;-5)",,n,,$Stats_desc_instability_zz,,
@@ -69,7 +70,7 @@ In Campaign map: The max Sonar device setting for the ship increases ASW capacit
 fire_ex,,,sum,,Towers,$Ui_Constr_details_DamageControl,"pump(0;175), fire_stop(0;300), module_repair(0;300)",,,,$Stats_desc_fire_ex,,
 smoke,,,sum,,Towers,$StatEffect_Name_smoke,"accuracy(0;-5), vis_mod(0;+10)",,n,,$Stats_desc_smoke,,
 ##,,,,,,Engine & Funnels,,,,,,,
-smoke_exhaust,,,auto,%,Engine,$Stats_name_smoke_exhaust,"acceleration(-87.5;50), acceleration_top(-90;100), operating_range(-37.5;20), cruise_speed_stat(-5;2.5)","acceleration_old(-95;25), speed_max(-15;0)",,,$Stats_desc_smoke_exhaust,,
+smoke_exhaust,,,auto,%,Engine,$Stats_name_smoke_exhaust,"acceleration(-87.5;50), acceleration_top(-90;100), operating_range(-37.5;20), cruise_speed_stat(-5;5)","acceleration_old(-95;25), speed_max(-15;0)",,,$Stats_desc_smoke_exhaust,,
 fcap,,,sum, khp,Engine,$Stats_name_fcap,,,,,$Stats_desc_fcap,,
 ##,,,,,,Special,,,,,,,
 overweight,,,sum,,Flaws,$Stats_name_overweight,"hullweight(0;15), accuracy_waves(0;10), accuracy_cruise(0;7.5), acc_turning_self(0;10), flooding_chance(0;+25),  flooding_water(0;+25), acceleration(0;-20), rotation_speed(0;-17.5), turning_slowdown(0;+20), rotation_speed_change(0;-20), deceleration(0;20), operating_range(0;-12.5), pump(0;-12.5), fire_stop(0;-10), module_repair(0;-12.5), acceleration_top(0;-25), gun_damage(0;-5),

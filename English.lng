@@ -105,6 +105,7 @@ $technology_desc_hull_cruiser_17;Unlocks 15,000t Light Cruisers
 $technology_desc_hull_cruiser_18;Unlocks 16,000t Light Cruisers
 $technology_desc_hull_cruiser_19;Unlocks 17,000t Light Cruisers
 $technology_desc_hull_cruiser_20;Unlocks 18,000t Light Cruisers
+$component_name_short_he_5;Semi-AP
 $Ui_NewGame_DesignUsage_Mixed;AI Design Usage: Hybrid
 $Ui_NewGame_DesignUsage_FullGenerated;AI Design Usage: Bespoke
 $Ui_NewGame_DesignUsage_FullPredefined;AI Design Usage: Pregenerated
