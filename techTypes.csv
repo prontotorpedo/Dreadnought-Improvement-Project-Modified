@@ -17,6 +17,7 @@ surv_hull,surv,$techType_name_surv_hull,,1,$techType_tooltip_surv_hull,ToEnable,
 surv_internal,surv,$techType_name_surv_internal,,1,$techType_tooltip_surv_internal,ToEnable,100
 gun_layout,gun2,$techType_name_gun_layout,,1,$techType_tooltip_gun_layout,,100
 gun_mech,gun2,$techType_name_gun_mech,,1,$techType_tooltip_gun_mech,ToEnable,100
+gun_tech,gun2,$techType_name_gun_tech,,1,$techType_tooltip_gun_tech,ToEnable,100
 gun_xlarge,gun,$techType_name_gun_xlarge,group_guns,1,$techType_tooltip_gun_xlarge,Guns,100
 gun_verylarge,gun,$techType_name_gun_verylarge,group_guns,1,$techType_tooltip_gun_verylarge,Guns,100
 gun_large,gun,$techType_name_gun_large,group_guns,1,$techType_tooltip_gun_large,Guns,100

@@ -1,28 +1,43 @@
-# Tweaks And Fixes for 1.7.0.0
-A collection of tweaks, fixes, and moddability support features for Ultimate Admiral: Dreadnoughts.
+# Short guide how to use IDE / GITHUB
+## Setup
+* Download and install any IDE (eg. [IntelliJ IDEA](https://www.jetbrains.com/idea/download/?section=windows))
+* Open Brother Munro's repository in [Github](https://github.com/brothermunro/Dreadnought-Improvement-Project)
+  * on Tab **Code**, click on button **Code** and choose **Local** / **HTTPS** and copy the URL
+* In IDE choose File / New / Project from Version control
+  * Leave Version control on GIT, paste URL and choose a folder, where to save the project
+  * if you choose UAD's Mods folder you don't need to copy and the state in the folder would correspond to what's in IDE
 
-## New Management
-[NathanKell](https://github.com/NathanKell) wrote the foundation for TAF that I am extending from. They stopped development in early 2025 and are unlikely to return. I will take over the project for the forseeable future.
+## IDE Operations
+### Branches
+* There's a Main branch, which is a copy of the project (main branch) from the repository
+* New branch should be created in order to work on any change
+  * You can switch between branches using operation **Checkout** on the branch
+  * The current changes will "move" from branch to branch unless those are **shelved**
+* You can do a **Checkout** to other person's branch - in Branches / Remote in order to check whatever is in that branch
+  * List can be refreshed using **Fetch** operation to get current list
+  * The branch needs to be in the Github, where it appears once a **Push** is performed from that branch
+  
+### Commit and Push changes
+* Once the changes are done and ready you should do these operations
+  * First you need to make sure the **Main** branch is up to date in order to be able to safely **Merge** it
+    * Use operation **Update** on the Main branch
+  * When checked out on your work branch use operation **Rebase** and choose **onto Main branch**
+    * The operation can either finish successfully itself, if there are no conflicts between the branches, or you need to solve the conflicts -> choose what updates should be chosen
+  * You can then use operation **Commit** to choose what files should be Merged into the Main branch (usually all)
+    * Give it a description
+    * Click on **Commit** if you want to continue to work on it later or **Commit and Push** if ready to be pushed to github and to be merged
 
-## Focus/Bugs/Feedback/Suggesstions/Help
-My development will be focused around Brother Munro's [Dreadnought Improvement Project](https://www.nexusmods.com/ultimateadmiraldreadnoughts/mods/7?tab=description), though TAF will still be usable as a standalone mod. If you encounter any bugs while using TAF, please report them in as much detail as possible.
+### Merge changes
+  * In Github repository you can then create a **Merge request** with your commit
+    * It's usually prefilled otherwise you'd need to choose From and To branch
+  * The merge request can be then reviewed
+    * Comments can be created on any line to be checked by a creator and update if needed (ie. work on changes, create another Commit, which needs to be pushed)
+  * Once there's no issue with the Merge request it can be **Merged** into the Main to have your changes included
+    * Once done you can Update the Main branch on your PC to get the latest changes
+    * The branch is at this point still kept in the repository but can be deleted if needed (or to clear the list of branches)
 
-If you have feedback/suggestions, join the [Brother Munro Community Discord Server](https://discord.gg/kjYeC5dyya) and post in #taf-feature-suggestions. If you encounter installation issues, feel free to ask in the #tweaks-and-fixes channel.
-
-## [We Have a Wiki](https://github.com/DukeDagor/UADRealismDIP/wiki)!
-Follow the link or go to the Wiki tab of this repository for all the information that was originally in the README and more! Though it's a heavy work in progress, the Wiki will be extended to include info on all aspects of UAD modding. Contact me in the discord server if you wish to contribute!
-
-## UAD Realism
-I have no plans for UAD Realism, as extending TAF will be more than enough work for me to handle.
-
-## Installation
-* [Download MelonLoader 0.6.6](https://github.com/LavaGang/MelonLoader/releases/download/v0.6.6/MelonLoader.x64.zip) and unzip it to your UAD folder.
-* Download the latest [TweaksAndFixes release](https://github.com/DukeDagor/UADRealismDIP/releases/latest) and unzip it to your UAD folder. Overwrite all old files, if upgrading. If you did it right, then the path to `tweaksAndFixes.dll` should be `Ultimate Admiral Dreadnoughts\Mods\tweaksAndFixes.dll`.
-* Run the game. The first launch will be slower but subsequent launches will be normal.
-
-## Nightly
-Go to the [TweaksAndFixes/TAF_Nightly](https://github.com/DukeDagor/UADRealismDIP/tree/main/TweaksAndFixes/TAF_Nightly) folder for the nightly/beta releases of TAF. These are unstable versions may have game-breaking bugs. ***Do not report bugs found in nightly versions in the GitHub issue tracker***. All nightly bug reports need to be made through the discord server.
-
-## Default Files
-* Default TAF csv files can be found in the latest [TweaksAndFixes release](https://github.com/DukeDagor/UADRealismDIP/releases/latest) for all versions after `3.20.1`. See the [mod file page](https://github.com/DukeDagor/UADRealismDIP/wiki/Mod-Files) of the Wiki for more info.
-* See [here](https://github.com/DukeDagor/UADRealismDIP/wiki/Resources) for info on the default game assets.
+## CSV files
+* In the IDE, eg. IntelliJ IDEA there's a plugin (couple of at least) to make editing of CSV files easier
+  * Go to Settings / Plugins and search for **CSV Editor** and install it
+  * It shows 2 tabs, one with differently coloured columns CSV file and 2nd one in a nice table
+    * Edits are highlighted in the Text tab

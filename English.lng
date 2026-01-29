@@ -10,6 +10,12 @@ $Player_desc1910_netherlands;The Netherlands faces a rapidly evolving internatio
 $Player_desc1920_netherlands;In the wake of the First World War, the Netherlands finds itself grappling with the aftermath of global conflict. Despite its official neutrality during the war, the country is not untouched by the ripples of change. The Dutch navy, once a formidable force, is now in a state of disrepair, struggling to keep pace with the advanced naval technologies emerging across the globe. The need for modernization is urgent as neighbouring powers bolster their fleets, potentially threatening Dutch interests both at home and in the colonies. Domestic challenges, including economic recovery and political instability, further complicate efforts to rejuvenate the navy. The Dutch East Indies remain a valuable asset, but maintaining control and defending these territories against external threats require a strong and capable maritime force.
 $Player_desc1930_netherlands;The Netherlands is facing mounting challenges as the world edges toward a new era of conflict. The economic and political stability enjoyed in the past decades is now overshadowed by the growing storm clouds of international tension and instability. The Dutch East Indies remain a cornerstone of the empire, but maintaining control over these distant colonies is becoming increasingly difficult. The rise of nationalist movements and the aggressive expansionist policies of neighbouring powers put Dutch interests at risk. The navy, while still capable, is increasingly outdated compared to the modern fleets of the major world powers. Domestically, the country is grappling with economic pressures and political shifts that complicate efforts to invest in naval modernization.
 $Player_desc1940_netherlands;The clouds of war are gathering over Europe, and the nation’s strategic position makes it a focal point of rising tensions. Although the Netherlands has maintained a policy of neutrality, the aggressive moves of neighbouring powers have heightened the risk of conflict. The Dutch navy, though historically significant, is increasingly outmatched by the more advanced and powerful fleets of surrounding nations. The need for modernization and readiness is clear, but domestic resources are stretched thin, and political uncertainty complicates efforts to bolster the military. The Dutch East Indies, a vital component of the empire, are becoming more difficult to defend as global rivalries intensify. The threat of potential invasion looms larger with each passing day, making it crucial for the Netherlands to prepare for the possibility of being drawn into the escalating conflict.
+$Player_desc1890_scandinavia;The Scandinavian Empire stands as a beacon of unity in Northern Europe, formed through shared cultural ties and strategic consolidation. The empire’s economy is bolstered by timber, fisheries, and emerging industrial centers, laying the groundwork for modernization. Strategically positioned between the North Atlantic and the Baltic, the empire commands significant influence over regional trade routes. Its navy, though still developing, is a priority for securing maritime interests and asserting its presence in the Arctic and North Seas. The empire looks ahead with cautious ambition, aiming to solidify its role as a Northern European power.
+$Player_desc1900_scandinavia;By 1900, the Scandinavian Empire is thriving, leveraging its abundant natural resources and industrial growth. Modern shipyards and steel production centers signal the empire’s ambitions to expand its naval capabilities. Strategically vital waterways, such as the Skagerrak and the Baltic, place the empire at the heart of Northern European trade and diplomacy. The navy grows into a respected force, ensuring the protection of trade routes and coastal territories. As the 20th century dawns, the Scandinavian Empire balances tradition with progress, asserting itself as a stable and influential player in the region.
+$Player_desc1910_scandinavia;The Scandinavian Empire finds itself navigating the complexities of a Europe poised for upheaval. The empire has made strides in industrialization, with railways and modern ports connecting its vast territories. The navy undergoes significant expansion, preparing to defend vital trade routes and maintain control of strategic waters. Diplomatically, the empire seeks to maintain neutrality while cautiously strengthening alliances. Internally, calls for greater autonomy among regions are met with political reforms aimed at preserving unity. The empire faces the new decade with determination, aware of the challenges posed by rising tensions across Europe.
+$Player_desc1920_scandinavia;The Scandinavian Empire emerges from the Great War having maintained its neutrality, though the conflict reshaped its economic and strategic outlook. Wartime demands spurred industrial growth, but the global post-war downturn strains recovery efforts. The navy, now a formidable presence in the North Atlantic and the Baltic, remains the pride of the empire. Politically, the government works to balance regional autonomy with imperial cohesion. As Europe struggles with the aftermath of war, the Scandinavian Empire seeks to position itself as a stabilizing force and a defender of maritime trade in Northern Europe.
+$Player_desc1930_scandinavia;The global economic crisis casts a shadow over the Scandinavian Empire, straining its industries and leading to social unrest. Despite economic challenges, the empire invests heavily in its navy, viewing maritime power as essential to its security and influence. Strategic control of the Baltic and Arctic waterways enhances its geopolitical importance, though tensions with neighboring powers rise. Internally, the government grapples with growing political divisions, balancing modernization with the preservation of unity. As Europe drifts toward instability, the Scandinavian Empire remains determined to defend its sovereignty and regional influence.
+$Player_desc1940_scandinavia;The Scandinavian Empire finds itself in a world on the verge of total war. The government faces intense pressure to choose between neutrality and involvement, as its strategic waterways and Arctic routes gain critical importance. Years of naval investment have created a fleet capable of defending the empire’s coasts and asserting its presence in contested waters. Domestically, the empire strives to maintain cohesion amidst economic strain and political debate. As great powers collide, the Scandinavian Empire stands at a pivotal moment, its choices poised to shape the course of its future in a world at war.
 $Player_desc1890_argentina;Argentina is a burgeoning power in South America, experiencing a period of economic growth and political transformation. The country is rich in natural resources, and the expansion of railways and agriculture is fuelling rapid development. Buenos Aires, the nation's capital, is emerging as a vibrant hub of commerce and culture. Despite its progress, Argentina faces significant challenges. Political instability and frequent changes in leadership create uncertainty, while regional rivalries and disputes with neighbouring countries complicate foreign relations. The Argentine military is working to modernize and expand its capabilities to protect its growing interests and secure its borders. The naval forces, though improving, still lag behind those of more established maritime powers.
 $Player_desc1900_argentina;As the 20th century begins, Argentina is poised for significant growth and influence. The country’s economy is thriving, driven by agricultural exports and the expansion of infrastructure. The railways, now stretching across the nation, are facilitating commerce and integration, making Buenos Aires a central economic hub in South America. However, Argentina faces ongoing political challenges. The early years of the century are marked by political instability and struggles between competing factions. The military, while growing in strength and capability, still grapples with modernization issues. The need for a more powerful navy is becoming evident as Argentina seeks to protect its interests and assert its influence in the South Atlantic.
 $Player_desc1910_argentina;Argentina is a nation at a crossroads, reflecting on its progress and grappling with new challenges as it celebrates a century of independence. The country has enjoyed economic prosperity and growth, with its agricultural exports and booming industries contributing to its rise as a major South American power. However, the early 20th century brings a period of political and social upheaval. The presidency of José Figueroa Alcorta sees efforts to stabilize the political landscape, but tensions between various factions and ongoing issues of corruption create instability. The military, including the navy, continues to evolve but faces the challenge of keeping pace with modern naval technology and regional rivalries. As Argentina seeks to protect its interests and project power in the South Atlantic, the need for a more advanced and capable naval force becomes increasingly urgent.
@@ -28,48 +34,18 @@ $Player_desc1910_brazil;Brazil is experiencing a period of dynamic growth and de
 $Player_desc1920_brazil;Brazil is at a crossroads, dealing with the repercussions of World War I and its effects on the global economy. The war has impacted Brazil’s key industries, and the post-war economic downturn poses challenges for the country’s growth and stability. Despite this, Brazil remains an important player in South America, buoyed by its rich natural resources and growing industrial base. Politically, Brazil is undergoing significant changes. The presidency of Epitácio Pessoa is marked by efforts to stabilize and modernize the country, but political and social unrest persists. The country is grappling with issues of corruption, regionalism, and demands for political reform. The Brazilian navy, which has seen improvements in recent years, is still in the process of modernizing and expanding its capabilities.
 $Player_desc1930_brazil;Brazil is undergoing significant transformation as it confronts the challenges of the Great Depression. The global economic downturn has put pressure on Brazil’s key industries, particularly coffee and rubber, leading to economic strain and social unrest. The country is grappling with the impact of declining export revenues and rising unemployment. Politically, Brazil is in a period of upheaval. The presidency of Washington Luís has been marked by increasing political instability and dissatisfaction among various factions. This instability culminates in a military coup led by Getúlio Vargas, who will take over as interim president. The political landscape is shifting, and the country faces the challenge of navigating this turbulent period. The Brazilian navy, while still advancing in terms of modernization, is affected by the economic challenges of the era.
 $Player_desc1940_brazil;Brazil stands at a pivotal moment, shaped by the swirling currents of World War II. Under the leadership of President Getúlio Vargas, the country is embracing a nationalist fervor as it seeks to assert its role on the global stage amidst the chaos of global conflict. The economic impact of the war has highlighted Brazil’s strategic importance, particularly with its crucial rubber resources becoming a focal point in international diplomacy. The Vargas administration leverages this opportunity to promote a sense of national pride and self-sufficiency, emphasizing Brazil’s role as a vital player in the wartime economy. Politically, Vargas’s government has fostered a strong sense of nationalism and unity, implementing policies designed to consolidate power and promote national interests.
-$Player_desc1890_greece;Greece is a nation in a state of dynamic revival and national aspiration. The country, having gained independence from the Ottoman Empire in the early 19th century, is now focused on consolidating its position and expanding its influence in the region. The late 19th century is marked by a period of relative stability and growth as Greece seeks to establish itself as a significant power in the Balkans. The economy is beginning to recover and develop, driven by agricultural improvements and emerging industries. Greece's strategic location in the Eastern Mediterranean continues to enhance its geopolitical significance, and there are ambitions to assert more control over regional trade and politics. The Greek navy, though modest compared to the major naval powers, plays a crucial role in protecting Greece’s maritime interests and projecting its influence in the Aegean and Mediterranean seas.
-$Player_desc1900_greece;Greece is poised on the brink of significant change and expansion. The country is experiencing a period of national consolidation and economic development following the political upheavals of the previous decades. With the dawn of the new century, Greece is focused on strengthening its position and achieving its ambitions in the region. The Greek economy is growing, with investments in infrastructure and industry beginning to pay dividends. The nation's strategic location continues to make it a key player in Eastern Mediterranean affairs. The ongoing process of modernizing the country’s infrastructure, including ports and railways, is enhancing Greece’s economic and strategic capabilities. The Greek navy, though still developing, is increasingly seen as a crucial element of national defense and regional influence.
-$Player_desc1910_greece;Greece is undergoing a period of vigorous national development and political transformation. The early years of the 20th century have brought both opportunities and challenges as Greece seeks to consolidate its gains and address regional tensions. The Greek economy continues to grow, bolstered by agricultural advancements and increased trade. The expansion of infrastructure and modernization efforts are driving economic progress, contributing to a growing sense of national pride and ambition. Politically, Greece is experiencing significant change under the leadership of Prime Minister Eleftherios Venizelos, who is championing a vision of national unity and expansion. The Greek navy, now more advanced and capable, plays a key role in supporting Greece’s ambitions in the Balkans and the Eastern Mediterranean.
-$Player_desc1920_greece;Greece stands at a crossroads of triumph and turmoil. The aftermath of World War I and the subsequent Treaty of Sèvres have marked a significant period of expansion for Greece, which has managed to secure new territories in Asia Minor and the Aegean Sea. However, the gains of this expansion come with their own set of challenges and complexities. The Greek economy is buoyed by the newfound territories, bringing with it both opportunities and strains. The ongoing Greek-Turkish War and the political turbulence it brings have created a climate of instability and factionalism. The Greek navy, while still expanding and modernizing, faces the critical task of securing the newly acquired territories and maintaining control over the strategic maritime routes in the Eastern Mediterranean.
-$Player_desc1930_greece;Greece is in a period of recovery and resilience after the tumultuous years following World War I and the Greco-Turkish War. The early 1920s were marked by significant upheaval and political instability, but Greece is now focused on rebuilding and consolidating its position both domestically and in the region. The economic situation is gradually improving as Greece seeks to stabilize and grow in the wake of the post-war challenges. Efforts are being made to modernize infrastructure, boost agricultural production, and attract investment, all while managing the financial strains that continue to impact the nation. Politically, Greece is under the leadership of Prime Minister Eleftherios Venizelos, who remains a central figure in navigating the country through this period of recovery.
-$Player_desc1940_greece;Greece stands at a critical juncture as the shadows of World War II loom over Europe. The country, under the leadership of Prime Minister Ioannis Metaxas, is grappling with the implications of the ongoing global conflict and its impact on national security and sovereignty. The economic situation is strained as Greece navigates the complexities of wartime pressures and resource shortages. The nation’s focus is on bolstering its defenses and ensuring stability amidst the broader upheaval sweeping through Europe. Politically, Greece is dealing with the challenges of maintaining stability in the face of external threats and internal pressures. The Metaxas regime’s emphasis on national unity and preparedness is seen as a response to the increasing threat of fascist expansion and the pressures of geopolitical realignment.
+$Player_desc1890_greece;The Byzantine Empire in 1890 stands as a nation in revival, driven by aspirations to reclaim its regional prominence. Stability and growth define the era, with economic recovery fueled by agricultural improvements and budding industries. Strategically positioned in the Eastern Mediterranean, the empire seeks greater control over trade and regional politics. Its navy, though modest compared to global powers, remains vital for safeguarding maritime interests and projecting influence across the Aegean and Mediterranean seas.
+$Player_desc1900_greece;The Byzantine Empire is steadily modernizing, determined to secure its place among the great powers of the new century. Political and social reforms aim to strengthen the state, while industrialization begins to reshape its economy. Positioned at the crossroads of Europe and Asia, the empire wields considerable influence over regional trade and diplomacy. Though its military is undergoing modernization, the navy remains the pride of the realm, protecting vital trade routes and asserting dominance in the Aegean and Eastern Mediterranean.
+$Player_desc1910_greece;The Byzantine Empire stands at a crossroads, navigating the challenges of modernization and rising tensions in the Balkans. Industrial progress continues, though unevenly distributed, as the empire works to modernize its infrastructure and military. The navy, a symbol of imperial pride, undergoes significant upgrades to maintain control over the Aegean and Eastern Mediterranean. Diplomatically, the empire maneuvers to secure alliances while countering growing nationalist movements within its borders. As Europe edges closer to conflict, the Byzantines focus on preserving stability and asserting their role as a key power in the region.
+$Player_desc1920_greece;The Byzantine Empire emerges from the Great War scarred but resolute. Though spared the worst devastation, the conflict strained its economy and exposed internal divisions. Efforts to rebuild focus on modernizing industry and infrastructure while addressing nationalist unrest in its provinces. The navy, having proven its worth during the war, continues to expand as a cornerstone of Byzantine power in the Eastern Mediterranean. Diplomatically, the empire seeks to balance relations with the great powers while asserting its interests in the region. As the world shifts into a new era, the Byzantines aim to secure their legacy and adapt to the challenges ahead.
+$Player_desc1930_greece;The Byzantine Empire faces the turbulence of a rapidly changing world. The global economic downturn strains its industries, fueling social unrest and political polarization. Nationalist tensions within the empire remain a persistent challenge, testing the government's ability to maintain unity. Despite this, the navy continues to be a symbol of imperial strength, guarding key trade routes and asserting influence in the Eastern Mediterranean. With Europe teetering on the edge of upheaval, the Byzantines strive to balance modernization with stability, determined to safeguard their sovereignty in an increasingly volatile international landscape.
+$Player_desc1940_greece;The Byzantine Empire stands at the brink of a world consumed by war. The pressures of the global conflict weigh heavily, with the empire striving to maintain neutrality while fortifying its defenses. Years of modernization have strengthened the navy, now a critical force in protecting the empire's strategic position in the Eastern Mediterranean. Internally, nationalist movements and economic struggles persist, but the government remains focused on unity and survival. As great powers clash around them, the Byzantines face critical decisions that will shape their future in a world transformed by war.
 $Player_desc1890_korea;Korea has managed to maintain independence despite growing foreign interest in East Asia. The navy is small and outdated, primarily tasked with coastal defence. However, the winds of modernization are blowing across the peninsula, and there are whispers of acquiring Western-built ships. Japan's growing naval ambitions in the region are noted, but not yet viewed as an imminent threat. The task is clear: protect the coastline, begin modernizing the fleet, and ensure Korea can defend its sovereignty against potential aggressors.
 $Player_desc1900_korea;The Korean admiralty is facing mounting pressure to modernize the navy at an accelerated pace. Japan's growing naval strength and victories in regional conflicts, particularly against China, are impossible to ignore. Korea’s diplomatic position is delicate, balancing influence from China, Japan, and Western powers. The navy remains small, but efforts to acquire modern warships from Western nations have begun. The head of the admiralty must navigate these political waters while laying the groundwork for a modern fleet capable of defending the peninsula from potential Japanese expansionism.
 $Player_desc1910_korea;Relations with Japan have soured dramatically, culminating in outright hostility. The navy has seen some modernization, but it is still underfunded and overshadowed by Japan's formidable maritime power. With Japan's increasing aggression and expansionist policies, the admiralty is on high alert, preparing for the possibility of conflict. The challenge lies not only in strengthening naval defences but also in rallying national pride among the populace.
 $Player_desc1920_korea; Tensions are high with Japan, marked by frequent skirmishes and naval confrontations. The Korean navy has seen some improvements but struggles with morale and training as the stakes rise. Japan’s aggressive imperial ambitions are clear, and the admiralty must prepare for potential conflict while navigating regional alliances. Your priority will be to unify and strengthen the navy, developing a decisive strategy to safeguard Korea's independence amidst the growing threat.
 $Player_desc1930_korea;Relations with Japan have deteriorated to a breaking point, with the threat of full-scale war looming. The navy has made significant strides in modernization, but it remains outmatched by Japan's powerful fleet. Tensions in the region are palpable, and the admiralty must prepare for imminent conflict while fostering national unity and resilience. Strategic planning for naval engagements becomes critical, as every decision could mean the difference between survival and subjugation.
 $Player_desc1940_korea;The navy, now more robust and experienced, faces the ultimate test as hostilities erupt. The years of preparation and modernization have equipped the fleet to challenge Japanese aggression, but the odds remain daunting. Strategic naval battles are underway, and maintaining morale among the ranks is essential as casualties mount. Your leadership will be pivotal in coordinating defences, executing offensive strategies, and rallying the nation. The struggle for independence is no longer a distant hope—it's a fierce reality, and the fate of Korea hangs in the balance.
-$Player_desc1890_ottoman;The Ottoman Empire is a shadow of its former self, grappling with the challenges of modernization and internal strife. Once a sprawling and dominant force, the empire now faces the difficult task of holding together its diverse territories amid rising nationalist movements and external pressures. The vast empire stretches across Europe, Asia, and Africa, but its control is increasingly tenuous. The Ottoman navy, which once commanded respect on the high seas, is now outdated and struggling to keep pace with the modernizing fleets of Europe. The empire's strategic position makes its maritime capabilities crucial for maintaining influence and defending its interests. However, financial constraints and political instability at home hinder efforts to modernize and strengthen the navy.
-$Player_desc1900_ottoman;As the 20th century begins, the Ottoman Empire is in the midst of a profound transformation. The once-mighty empire is now contending with internal decay and external threats. The loss of territories in the Balkans and North Africa has weakened Ottoman influence, and rising nationalist movements threaten the stability of its remaining lands. Efforts to modernize and reform the empire’s institutions are underway, but progress is slow and fraught with difficulties. The Ottoman navy, once a symbol of power, is struggling with aging ships and outdated tactics. The need for modernization is urgent, as the empire faces pressure from European powers with superior naval capabilities.
-$Player_desc1910_ottoman;The Ottoman Empire stands at a critical juncture. The empire is struggling to maintain control over its diverse and increasingly restive territories. The Balkan Wars of 1912-1913 have already begun to erode Ottoman influence in southeastern Europe, and the empire is faced with the challenge of managing its remaining lands while addressing internal dissent. The Ottoman navy, though undergoing some modernization efforts, remains inferior to the more advanced fleets of European powers. The ongoing struggle to modernize military and administrative institutions reflects the broader difficulties facing the empire as it attempts to adapt to a rapidly changing world.
-$Player_desc1920_ottoman;The Ottoman Empire is a shadow of its former self, having been profoundly altered by the upheavals of World War I and the subsequent Turkish War of Independence. The empire's defeat in the war and the harsh terms of the Treaty of Sèvres have resulted in the loss of much of its territory and a dramatic shift in its political landscape. The rise of Mustafa Kemal Ataturk and the establishment of the Turkish Republic in 1923 marks a new era for the Anatolian heartland. The remnants of the Ottoman state are struggling to adapt to this transformation, as the new republic embarks on a path of modernization and reform. The once-feared Ottoman navy has been disbanded, and the focus now is on rebuilding the nation from the ground up.
-$Player_desc1930_ottoman;Turkey is firmly on the path of modernization and reform under the leadership of Mustafa Kemal Ataturk. The radical changes implemented since the establishment of the Republic have begun to reshape Turkish society and governance. The remnants of the Ottoman Empire have been dismantled, and a new secular, national identity is being forged. The country is focused on implementing Ataturk's ambitious reforms, which include overhauling the education system, adopting a new legal framework, and promoting industrialization. These efforts aim to transform Turkey into a modern, progressive nation, capable of standing on equal footing with the great powers of Europe. However, the road to modernization is fraught with challenges.
-$Player_desc1940_ottoman;Turkey stands as a beacon of stability in an increasingly turbulent world. The country has made significant strides since the establishment of the Republic, with Mustafa Kemal Atatürk’s reforms laying the groundwork for a modern, secular state. However, the international landscape is now fraught with peril as World War II engulfs Europe and beyond. Turkey remains officially neutral but faces mounting pressure from both Axis and Allied powers. The strategic location of Turkey, bridging Europe and Asia, makes it a focal point in the global conflict. The Turkish government, under Atatürk’s successor İsmet İnönü, must carefully navigate these pressures while maintaining the nation’s sovereignty and stability.
-$Player_desc1890_belgium;Belgium’s small navy faces the challenge of guarding vital trade routes and supporting King Leopold’s Congo venture. Surrounded by great powers, the fleet must find purpose despite limited resources.
-$Player_desc1900_belgium;The Congo grows in importance, but Belgium’s navy remains modest. Protecting colonial links and commerce sparks debate over expansion, as rivals modernize their fleets at alarming speed.
-$Player_desc1910_belgium;Great powers build ever-stronger fleets while Belgium clings to neutrality. Its outdated navy offers little protection for trade or colonies, raising fears of sudden vulnerability in a crisis.
-$Player_desc1920_belgium;Reeling from invasion, Belgium struggles to rebuild. The navy lags far behind modern standards, yet secure maritime links to the Congo are essential to recovery and national pride.
-$Player_desc1930_belgium;Economic strain and political division leave naval reform slow. The Congo and European trade routes remain vital, but Belgium’s fleet is too small to defend them against growing threats.
-$Player_desc1940_belgium;Europe edges toward war once more. Belgium’s navy is hopelessly outmatched, yet it must still safeguard commerce and colonial ties, with neutrality offering little true protection.
-$Player_desc1890_denmark;Denmark’s fleet is small but positioned on the Baltic gateways, where even minor ships carry great strategic weight. Though neutral, control of the straits is a responsibility too important to ignore.
-$Player_desc1900_denmark;Modernization begins, yet Denmark’s fleet remains outclassed by neighbours. Its mission is to secure the straits and deter stronger powers from using them to dominate the Baltic.
-$Player_desc1910_denmark;As naval rivalries grow, Denmark’s modest fleet struggles to keep pace. Still, its control of vital sea lanes ensures its importance far exceeds its size.
-$Player_desc1920_denmark;The Great War spared Denmark, but its fleet is left outdated and weak. Neutrality alone cannot protect the straits, making modernization an urgent but costly task.
-$Player_desc1930_denmark;Economic strain hampers naval growth, but Denmark’s responsibility remains clear. Guarding the Baltic approaches with an ageing fleet grows ever more precarious.
-$Player_desc1940_denmark;Once again, the straits stand in danger. Denmark’s navy is too small to resist overwhelming fleets, but its position ensures it will be drawn into any conflict.
-$Player_desc1890_norway;Norway’s long, exposed coast is guarded by only a small fleet. Fishing and trade are lifelines of the nation, demanding vigilance despite limited resources and political union with Sweden.
-$Player_desc1900_norway;Independence nears, and with it the need for a capable navy. Protecting a vast coastline and asserting sovereignty over rich waters will test Norway’s modest resources.
-$Player_desc1910_norway;Now independent, Norway maintains only a small coastal fleet. Surrounded by greater powers, its navy must deter intrusion while remaining firmly defensive in character.
-$Player_desc1920_norway;Neutral during the war, Norway continues to rely on a defensive navy. Its trade and fisheries are vital, yet scarce funds keep modernization painfully slow.
-$Player_desc1930_norway;Economic difficulties hinder naval growth, but Norway’s maritime lifelines remain vulnerable. A long coast and vital trade make security a pressing yet unfulfilled need.
-$Player_desc1940_norway;As Europe plunges toward war, Norway’s waters gain new strategic importance. Its small defensive fleet must hold out against powers far stronger than itself.
-$Player_desc1890_sweden;Sweden’s navy safeguards neutrality and Baltic trade. Though modest compared to the great powers, it remains an essential shield for independence and coastal defense.
-$Player_desc1900_sweden;Modernization begins, yet rivals expand faster. Sweden’s navy must defend its coasts and assert authority in the Baltic against growing competition.
-$Player_desc1910_sweden;Surrounded by larger powers, Sweden strengthens its fleet. It seeks to deter aggression and secure neutrality, relying on capable ships despite limited numbers.
-$Player_desc1920_sweden;Neutral in the war, Sweden’s navy remains wary of instability in the Baltic. Defensive strength at sea is seen as key to preserving balance and sovereignty.
-$Player_desc1930_sweden;Modernization lags while Europe darkens. Sweden’s fleet must stretch thin, guarding extensive coasts and trade routes against unpredictable dangers.
-$Player_desc1940_sweden;Conflict looms across Scandinavia. Sweden’s defensive navy is competent, but preserving neutrality in a hostile Baltic grows increasingly uncertain.
 $event_text_92;[ENEMY] has sent us a telegraph which clearly threatens us with war, accusing us of fabricated incidents along our common border. How should we respond?
 $technology_desc_hull_strength_12_2;New Hulls
 $technology_desc_hull_strength_12_3;Fast Dreadnoughts are the last Development of the Dreadnought Era
@@ -129,6 +105,399 @@ $technology_desc_hull_cruiser_17;Unlocks 15,000t Light Cruisers
 $technology_desc_hull_cruiser_18;Unlocks 16,000t Light Cruisers
 $technology_desc_hull_cruiser_19;Unlocks 17,000t Light Cruisers
 $technology_desc_hull_cruiser_20;Unlocks 18,000t Light Cruisers
+$component_name_short_propellant_0_1;Nitrocell
+$technology_name_projectile_explosive_17_1; Nitrocell Poudre-B Experimental Charge
+$technology_desc_projectile_explosive_17_1;An early experimental application of nitrocellulose derived from texting with Poudre B chemistry. While offering improved ballistic performance over traditional powders, its poor chemical stability and sensitivity make it risky in prolonged storage and limit large-scale adoption.
+$component_name_short_propellant_6_1;EGDN Nitroglycol
+$technology_name_projectile_explosive_23_1;EGDN Bursting Charge Mixture
+$technology_desc_projectile_explosive_23_1;A high-energy explosive mixture based on nitroglycol (EGDN), delivering greater explosive power and improved detonation characteristics. Its volatility and temperature sensitivity require reinforced ammunition handling and storage systems.
+$component_name_short_explosive_9_1;Pure RDX
+$technology_name_projectile_explosive_16_1;Full RDX Component Propellant
+$technology_desc_projectile_explosive_16_1;A pure RDX-based explosive component providing exceptional brisance and shell lethality. Although highly effective, its strength demands advanced safety measures and precise fusing. It promises insanely explosive outcomes.
+$component_name_short_explosive_0_1;Compressed Black Powder
+$technology_name_projectile_explosive_7_1;Compressed Black Powder Propellant
+$technology_desc_projectile_explosive_7_1;Black powder compressed into dense charges to improve consistency and shell efficiency. While damages becomes more reliable than with looser powder mixtures, it remains a low explosive with limited destructive potential compared to more modern compounds. The Pressurization also make it less stable in storage and prone for premature explosion. Handle with care.
+$component_name_short_he_5; Explosive Incendiary
+$component_name_short_shell_S.light;Sub-Caliber
+$technology_name_projectile_shell_11_1;Sub Caliber Sabot Shells
+$technology_desc_projectile_shell_11_1;A sub-caliber projectile using a sabot to achieve much higher muzzle velocity and penetration at the cost of Explosiveness. Extremely effective against armor, but reduced post-penetration damage.
+$component_name_short_he_1_1;Incendiary
+$technology_name_projectile_shell_22_1;Incendiary Shell
+$technology_desc_projectile_shell_22_1;An incendiary-filled shell soley designed to ignite fires on impact and spread damage across exposed areas. Most effective against lightly protected targets or superstructures.
+$component_name_short_he_0_1;Stabilized CNF
+$technology_name_projectile_shell_23_1;High Explosive Nose Fuse Fin Stabilized Round
+$technology_desc_projectile_shell_23_1;A fin-stabilized high explosive round that maintains accuracy at long range. Improved flight stability enhances range and consistency.
+$component_name_short_ap_3_1;Capped Semi
+$technology_name_projectile_shell_26_1;Semi AP Shell Capped
+$technology_desc_projectile_shell_26_1;A semi-armor-piercing shell fitted with a cap to slightly improve penetration on angled armor. Balances armor defeat with reliable internal damage after penetration.
+$component_name_short_ap_0_1;Improved AP
+$technology_name_projectile_shell_28_1;Improved AP Shell
+$technology_desc_projectile_shell_28_1;A shape-improved standard un-capped armor-piercing shell with optimized travel, penetration and material quality. Offers higher damage and overall better performance.
+$component_name_short_turret_traverse_0_1;Improved
+$technology_name_gun_mech_9;Improved Turret Design
+$technology_desc_gun_mech_9;Refined turret structures and improved bearing layouts reduce mechanical stress and improves firing stability. The design increases reliability and accuracy, especially in rough sea conditions.
+$component_name_short_turret_traverse_1_1;Early Stabilizer
+$technology_name_gun_mech_2_1;Early Turret Stabilizer
+$technology_desc_gun_mech_2_1;An early mechanical stabilizer that partially compensates for ship roll. It improves gun handling but offers limited effectiveness in heavy seas.
+$component_name_short_turret_traverse_1_2;Electrical Stab.
+$technology_name_gun_mech_2_2;Electrical Stabilizer
+$technology_desc_gun_mech_2_2;An electrically assisted stabilization system that reacts faster to ship movement. Provides more consistent gun alignment during moderate wave action.
+$component_name_short_turret_traverse_1_3;2-Axis Stabilizer
+$technology_name_gun_mech_2_3;two-axis Stabilizer
+$technology_desc_gun_mech_2_3;A two-axis stabilization system that actively compensates for pitch and roll. Significantly improves accuracy while firing in rough seas and during maneuvering.
+$component_name_short_turret_traverse_1_4;3-Axis Stabilizer
+$technology_name_gun_mech_2_4;three-axis Stabilizer
+$technology_desc_gun_mech_2_4;An advanced three-axis stabilizer compensating for pitch, roll, and yaw. Enables accurate fire even in heavy seas.
+$component_name_short_barbette_thickness_1;Armored
+$component_name_short_barbette_thickness_2;Armored II
+$component_name_short_barbette_thickness_3;Armored III
+$component_name_short_barbette_thickness_5;Armored IV
+$component_name_short_barbette_thickness_5_1;Electrical
+$technology_name_gun_layout_23_1;Electrically Powered Barbette
+$technology_desc_gun_layout_23_1;Electric motors replace manual systems for rotating and elevating the barbette. This improves response time, reduces crew workload, and ensures more reliable operation under combat conditions.
+$component_name_short_barbette_thickness_4;Electrical II
+$technology_name_gun_layout_22;Electrically Powered Barbette II
+$technology_desc_gun_layout_22;Electric motors replace manual systems for rotating and elevating the barbette. This improves response time, reduces crew workload, and ensures more reliable operation under combat conditions.
+$component_name_short_barbette_thickness_5_2;Electrical III
+$technology_name_gun_layout_23_2;Electrically Powered Barbette III
+$technology_desc_gun_layout_23_2;Electric motors replace manual systems for rotating and elevating the barbette. This improves response time, reduces crew workload, and ensures more reliable operation under combat conditions.
+$technology_desc_projectile_explosive_43;A new chemical substance increases the explosiveness of Shell fillers, affecting the Damage of HE shells
+$technology_name_projectile_explosive_43;Increased HE Filler I
+$technology_name_projectile_explosive_44;Increased HE Filler II
+$technology_name_projectile_explosive_45;Increased HE Filler III
+$technology_name_projectile_explosive_46;Increased HE Filler IV
+$technology_name_projectile_explosive_47;Increased HE Filler V
+$technology_name_projectile_explosive_48;Increased HE Filler VI
+$technology_name_projectile_explosive_49;Safe Storage Shells
+$technology_desc_projectile_explosive_49;With individual sub-packing it is possible to reduce the chance of spreading Damage when Storages are hit
+$technology_name_projectile_explosive_50;Safety Containing
+$technology_desc_projectile_explosive_50;Increased safety protocols in storing ammunition reduces explosion chances
+$technology_name_projectile_explosive_51;Liquid Storage Applications
+$technology_desc_projectile_explosive_51;Liquid Storage technology surrounds the Storage with water-like mixture reserves that automatically flood the storage when penetrated. This gives a massively reduced chance of devastating explosions while retaining most of the storage space, but increases the weight considerably.
+$technology_name_projectile_explosive_52;Secured extra Storage
+$technology_desc_projectile_explosive_52;Increases storage and reduces the explosions chance by making sure ammunitions is split on multiple smaller storages throughout the ship.
+$technology_name_projectile_explosive_53;Safely stored Reserve Torpedo
+$technology_desc_projectile_explosive_53;Reduces the chance of explosion while carrying one spare torpedo per launcher
+$technology_name_projectile_explosive_54;Maximum Torpedo Storage
+$technology_desc_projectile_explosive_54;Redistributes space on the ship to fully maximize torpedo carrying capacity, not considering safety at all.
+$technology_name_projectile_explosive_55;Sealed Torpedo Storage Containers
+$technology_desc_projectile_explosive_55;By mounting sealed Containers it is possible to carry a higher Torpedo load while reducing risk of devastating damage
+$component_name_short_multi_bottom_3;Liquid filled System
+$technology_name_surv_hull_3_1;Liquid-Filled Anti-Torpedo Hull System
+$technology_desc_surv_hull_3_1;Fuel or water layers absorb explosive energy and reduce hull damage. Massively improves torpedo protection due to blast mitigation but increases leaking chance after hit, fire risk due to non-water liquid components and maintenance complexity in routine dock inspections as well as post-battle.
+$component_name_short_multi_bottom_4;Cellular Structured
+$technology_name_surv_hull_3_2;Cellular Compartmentalized Hull
+$technology_desc_surv_hull_3_2;A cellular internal layout localizes flooding and structural damage. Improves post-hit survivability at the cost of weight and build complexity.
+$component_name_short_multi_bottom_5;Multi Layered
+$technology_name_surv_hull_3_3;Blast-Absorbing Hull
+$technology_desc_surv_hull_3_3;A specially manufactured multi-layered outer plating spaced armored hull that was designed to dissipate explosive force on several layers. Highly effective against mines and torpedoes but very costly to repair after damage.
+$component_name_short_multi_bottom_6;Double Cellular
+$technology_name_surv_hull_3_4;Cellular Compartmentalized Double Hull
+$technology_desc_surv_hull_3_4;A double cellular internal layout maximizsed flooding prevention and minimizes structural damage. Greatly improves post-hit survivability at the cost of weight and massive build complexity.
+$component_name_short_multi_bottom_0_1;Improved
+$technology_name_surv_hull_1_1;Improved Inner Hull
+$technology_desc_surv_hull_1_1;Improves torpedo protection but increases construction time and maintenance complexity.
+$component_name_short_boiler_4_1;Water Tube
+$compTypes_name_short_antiflooding;Damage Control
+$compTypes_name_antiflooding;Damage Control
+$component_name_short_Anti_Flooding_1_1;Anti Fire
+$technology_name_surv_internal_8_1;Dedicated Fire Suppression Stations
+$technology_desc_surv_internal_8_1;Dedicated fire suppression stations enable rapid response to onboard fires. Reduces fire spread and damage through improved equipment and crew coordination.
+$component_name_short_Anti_Flooding_3_1;Allround
+$technology_name_surv_internal_10_1;Fire & Flood Multi Suppression Systems
+$technology_desc_surv_internal_10_1;Integrated systems combine fire suppression with active flooding control. Improves overall damage control efficiency during complex combat damage situations.
+$component_name_short_buklheads_0_1;Sealed
+$technology_name_surv_internal_2_1;Sealed-Tight Bulkheads
+$technology_desc_surv_internal_2_1;Improved sealing and structural reinforcement reduce progressive flooding. Enhances survivability with minimal weight and cost increase.
+$component_name_short_buklheads_2_1;Armored
+$technology_name_surv_internal_4_1;Internal Armored Bulkhead Protection
+$technology_desc_surv_internal_4_1;Armored internal bulkheads absorb blast effects and limit damage spread. Increases resistance to torpedo and shell hits at higher weight.
+$component_name_short_buklheads_2_2;Armored II
+$technology_name_surv_internal_4_2;Advanced Armored Compartmentalization
+$technology_desc_surv_internal_4_2;Heavily armored and optimized bulkheads localize severe damage. Greatly improves post-hit survivability but increases construction complexity.
+$technology_name_engine_boiler_9_1;Water-tubed Boiler technology
+$technology_desc_engine_boiler_9_1;Water-tube boilers improve steam generation speed and reduce weight compared to fire-tube designs. They allow higher power output but require more careful maintenance.
+$component_name_short_boiler_4_2;High Pressured
+$technology_name_engine_boiler_9_2;Superheated, high pressure Boiler
+$technology_desc_engine_boiler_9_2;High-pressure boilers use superheated steam to significantly improve efficiency and engine performance. Increased operating stress demands skilled crews and advanced maintenance.
+$component_name_short_boiler_4_3;All-in-One
+$technology_name_engine_boiler_9_3;All in one boiler technology
+$technology_desc_engine_boiler_9_3;All in one Monotube boilers generate steam in a single pass at extremely high pressure, enabling rapid power response. Their complexity and sensitivity limit them to advanced vessels.
+$component_name_short_fuel_coal_2;Processed Coal
+$technology_name_engine_boiler_1_1;Processed Coal fuel improvements
+$component_name_short_fuel_oil_1_1;Semi-Oil II
+$technology_name_engine_boiler_2_1;Improved Semi Coal-Oil
+$technology_desc_engine_boiler_1_1;Improved coal processing and firing methods reduce smoke and increase fuel efficiency. These advances allow coal-powered engines to remain competitive.
+$technology_desc_engine_boiler_2_1;Refined mixed-fuel systems combine coal and oil to improve combustion control and engine responsiveness. This transitional technology offers better performance without full reliance on oil supplies.
+$component_name_short_fuel_oil_1_2;Diesel
+$technology_name_engine_boiler_2_2;Diesel Fuel Refinement
+$technology_desc_engine_boiler_2_2;Refined diesel fuel improves combustion efficiency and reliability in engines. It enables longer ranges on less consumption, reduced smoke output, and more stable operation compared to earlier fuel oils. Yet, it is not cheap.
+$component_name_short_fuel_nuclear_1;Nuclear
+$technology_name_engine_boiler_90;Nuclear Power Fuel Source Development
+$technology_desc_engine_boiler_90;The development of controlled nuclear fuel enables sustained energy generation without conventional fuel consumption. While offering unmatched endurance and reduced emissions, nuclear fuel demands complex handling, shielding, and long-term maintenance.
+$component_name_short_main_engine_90;Nuclear Power Plant
+$technology_name_engine_engine_90;Nuclear Power Plant Trials
+$technology_desc_engine_engine_90;Experimental nuclear power plants integrate reactors with steam turbines to propel large warships for extended periods. These trials prove exceptional range and reliability, but reveal high construction costs, safety constraints, and limited power responsiveness.
+$component_name_short_main_engine_1_1;Steam 2-Exp
+$technology_name_engine_engine_1_1;Double Expansion Steam Engines
+$technology_desc_engine_engine_1_1;Refined cylinders and better valve gear improve efficiency and reliability. Reduced fuel waste increases range at modest speeds.
+$component_name_short_main_engine_6_1;Turbo Electric II
+$technology_name_engine_engine_8_1;Advanced Turbo-Electric Propulsion
+$technology_desc_engine_engine_8_1;Improved generators and controls increase endurance and power stability. Excellent low-speed handling, but complex and maintenance-heavy.
+$technology_desc_engine_engine_7;An engine which uses a steam turbine and special electric motors to convert mechanical energy into power for the drive shafts. Additionally, a portion of the mechanical energy is efficiently converted into electrical power, which supplies vital ship mechanisms.n\The turbo-electric drive offers increased ship maneuverability, survivability, and engine reliability due to the overall efficiency and flexibility of its power distribution. However, turbo-electric drive engines have a much lower horsepower-to-weight ratio.
+$component_name_short_main_engine_6_2;Pressured G. Turbines II
+$technology_name_engine_engine_8_2;High-Pressure Steam Turbine Plant
+$technology_desc_engine_engine_8_2;Superheated high-pressure steam boosts speed and efficiency significantly. Higher stresses increase vibration and maintenance demands.
+$component_name_short_main_engine_8_1;Diesel-Electric Drive
+$technology_name_engine_engine_10_1;Diesel-Electric Propulsion Systems
+$technology_desc_engine_engine_10_1;Diesel generators power electric motors for smooth, efficient thrust control. Lower peak acceleration, but excellent endurance and low smoke.
+$component_name_short_main_engine_10;Gas Turbines II
+$technology_name_engine_engine_12;Advanced Gas Turbine Technology
+$technology_desc_engine_engine_12;Improved compressors and turbine materials increase power and response. High output comes with high vibrations and careful maintenance requirements.
+$technology_name_engine_engine_11;Gas Turbine Technology
+$compTypes_name_torpedo_prop;Torpedo Propulsion & Variants
+$compTypes_name_short_torpedo_prop; Torp Variant
+$component_name_short_ammo_shell_normal_safe;Secured Shells
+$component_name_short_ammo_shell_less_safe;Dispersed Ammo
+$component_name_short_ammo_shell_wetstorage;Liquid Storage
+$component_name_short_ammo_shell_more_safe;Increased Safety
+$component_name_short_torp_shell_normal_safe;Reserve Storage
+$component_name_short_torp_shell_more_super;Maximum
+$component_name_short_torp_shell_more_safe;Sealed Storage
+$component_name_short_torpedo_prop_elite;Elite
+$component_name_short_torpedo_prop_slow;Slowed
+$component_name_short_torpedo_prop_longlance;Long Lance
+$component_name_short_torpedo_prop_swarm;Autoloader
+$component_name_short_torpedo_prop_fastoxygen;Fast Oxygen
+$component_name_short_torpedo_prop_hyperlance;Hyper Lance
+$component_name_short_torpedo_prop_stealth;Stealth
+$technology_name_torpedo_prop_3;Stealth Torpedoes
+$technology_desc_torpedo_prop_3;Putting in silent running electric motors gives these Torpedoes the ability to run nearly undetected
+$technology_name_torpedo_prop_4;Elite Torpedoes
+$technology_desc_torpedo_prop_4;Combining the best developed technologies gives these Torpedoes one of the best traits and makes them very versatile. Reload is slightly increased due to complexity of the system
+$technology_name_torpedo_prop_16;Slowed Torpedoes
+$technology_desc_torpedo_prop_16;Slowing early torpedoes gives them the ability to travel way further and reduces detectability slightly. Still, its not difficult for a ship to evade them. Use wisely"
+$technology_name_torpedo_prop_17;Long Lance Torpedoes
+$technology_desc_torpedo_prop_17;Long Lance Technology gives increased range and speed, which makes them more effective in theory, yet it also makes them easier to see and just slightly less destructive.
+$technology_name_torpedo_prop_18;Autoloading Torpedo Tubes
+$technology_desc_torpedo_prop_18;Autoloaded Throwers are fit with a semi automatic reload system on shortened throwers which gives massively increased reload and range, but several drawbacks like massively reduced Accuracy
+$technology_desc_torpedo_prop_19;Fast Oxygen
+$technology_name_torpedo_prop_19;Improved Version of the Fast torpedo, with slightly increased range and speed while staying less visible. Very effective when given the opportunity.
+$technology_name_torpedo_prop_20;Hyper Lance
+$technology_desc_torpedo_prop_20;Super Long Lance Technology gives even more increased range and speed, which and counters some of their drawbacks like visibility and accuracy making them a great choice. They stay just slightly less effective in destructability than regular Torpedoes
+$technology_name_torpedo_tubes_17;Cruiser Single Torpedo
+$technology_desc_torpedo_tubes_17;Single Deck Torpedoes become available for Cruisers
+$technology_name_torpedo_tubes_18;Destroyer Double Torpedoes
+$technology_desc_torpedo_tubes_18;Double Deck Torpedoes become available for Destroyers
+$technology_name_torpedo_tubes_19;Destroyer Triple Torpedoes
+$technology_desc_torpedo_tubes_19;Triple Deck Torpedoes become available for Destroyers
+$technology_name_torpedo_tubes_20;Capital Double Torpedoes
+$technology_desc_torpedo_tubes_20;Double Deck Torpedoes become available for Capital Ships
+$technology_name_torpedo_tubes_21;Destroyer Quadruple Torpedoes
+$technology_desc_torpedo_tubes_21;Quadruple Deck Torpedoes become available for Destroyers
+$technology_name_torpedo_tubes_22;Cruiser Quadruple Torpedoes
+$technology_desc_torpedo_tubes_22;Quadruple Deck Torpedoes become available for Cruisers
+$technology_name_torpedo_tubes_23;Destroyer Quintruple Torpedoes
+$technology_desc_torpedo_tubes_23;Quintruple Deck Torpedoes become available for Destroyers
+$technology_name_torpedo_tubes_24;Torpedo Tube Improvement Tech I
+$technology_desc_torpedo_tubes_24;Torpedo Tubes get improved by new Technology, making them better but slightly more expensive
+$technology_name_torpedo_tubes_25;Torpedo Tube Improvement Tech II
+$technology_name_torpedo_tubes_26;Torpedo Tube Improvement Tech III
+$technology_name_torpedo_tubes_27;Torpedo Tube Improvement Tech IV
+$technology_name_torpedo_tubes_28;Torpedo Tube Improvement Tech V
+$technology_name_torpedo_size_11;Improved 21-Inch Torpedos
+$technology_desc_torpedo_size_11;Improved 21 Inch Torpedo technology giving older Launchers a lot more Firepower and versatility
+$technology_name_torpedo_size_12;Improved 18-Inch Torpedos
+$technology_desc_torpedo_size_12;Improved 18 Inch Torpedo technology giving older Launchers a lot more Firepower and versatility
+$technology_name_torpedo_size_13;Improved 24-Inch Torpedos
+$technology_desc_torpedo_size_13;Improved 24 Inch Torpedo technology giving older Launchers a lot more Firepower and versatility
+$technology_name_torpedo_size_14;Modern 21-Inch Torpedos
+$technology_desc_torpedo_size_14;Modernized 21 Inch Torpedo launchers fully refitting old tech with modern standards, further increasing firepower
+$technology_name_torpedo_size_15;Modern 18-Inch Torpedos
+$technology_desc_torpedo_size_15;Modernized 18 Inch Torpedo launchers fully refitting old tech with modern standards, further increasing firepower
+$technology_name_torpedo_size_16;Modern 24.5-Inch Torpedos
+$technology_desc_torpedo_size_16;Modern hightech 24.5 Inch Torpedo launchers giving massive firepower upgrade potential
+$component_name_short_torpedo_diameter_6_2;Impr. 21 Inch
+$component_name_short_torpedo_diameter_3_2;Impr. 18 Inch
+$component_name_short_torpedo_diameter_9_2;Impr. 24 Inch
+$component_name_short_torpedo_diameter_6_3;Modern 21 Inch
+$component_name_short_torpedo_diameter_3_3;Modern 18 Inch
+$component_name_short_torpedo_diameter_9_3;Modern 24.5 Inch
+$technology_name_armor_forging_12;Hot Rolled Homogeneous Armor
+$technology_desc_armor_forging_12;Standardized hot rolling produced uniform armor plate with predictable ballistic performance.
+$technology_name_armor_forging_13;Electric Arc Furnace Steelmaking
+$technology_desc_armor_forging_13;Electric furnaces enabled cleaner steels with precise alloy composition control.
+$technology_name_armor_forging_14;Controlled Heat Treatment Processes
+$technology_desc_armor_forging_14;Precisely timed heating and cooling improved hardness toughness balance.
+$technology_name_armor_forging_15;Alloy Steel Optimization
+$technology_desc_armor_forging_15;Systematic alloying increased strength while limiting brittleness under impact.
+$technology_name_armor_forging_16;Improved Quenching and Tempering
+$technology_desc_armor_forging_16;Advanced quenching methods reduced cracking and residual internal stresses.
+$technology_name_armor_forging_17;Welded Armor Plate Construction
+$technology_desc_armor_forging_17;Welding replaced riveting enabling stronger lighter armored structures.
+$technology_name_armor_forging_18;Vacuum Degassed Steel
+$technology_desc_armor_forging_18;Vacuum treatment removed gases improving toughness fatigue resistance and consistency.
+$technology_name_armor_forging_19;Precision Rolling and Thickness Control
+$technology_desc_armor_forging_19;Modern rolling mills achieved tighter tolerances and uniform plate thickness.
+$technology_name_armor_forging_20;High Toughness Structural Steels
+$technology_desc_armor_forging_20;Postwar steels emphasized toughness ductility and crack resistance under shock.
+$technology_name_aim_rangefinder_9;Stereoscopic Rangefinder I
+$technology_name_aim_rangefinder_10;Stereoscopic Rangefinder II
+$technology_name_aim_rangefinder_11;Stereoscopic Rangefinder III
+$technology_name_aim_rangefinder_12;Stereoscopic Rangefinder IV
+$technology_name_aim_rangefinder_13;Stereoscopic Rangefinder V
+$technology_name_aim_rangefinder_14;Stereoscopic Rangefinder VI
+$technology_name_aim_rangefinder_6;Coincidence Rangefinder VI
+$component_name_short_rangefinder_coinc_6;Coinc-VI
+$component_name_short_rangefinder_stereo_6;StereoSc-VI
+$technology_name_aim_rangefinder_7;Modern Fire Control I
+$technology_name_aim_rangefinder_8;Modern Fire Control II
+$technology_name_aim_rangefinder_15;Modern Fire Control III
+$technology_name_aim_rangefinder_16;Modern Fire Control IV
+$component_name_short_rangefinder_coinc_7;Modern FCS I
+$component_name_short_rangefinder_coinc_8;Modern FCS II
+$component_name_short_rangefinder_stereo_7;Modern FCS III
+$component_name_short_rangefinder_stereo_8;Modern FCS IV
+$technology_desc_aim_rangefinder_10;Centralized fire control integrates rangefinders into turrets to continuously track targets. Gun laying is coordinated across turrets, improving accuracy.
+$technology_desc_aim_rangefinder_11;Mechanical computer-assisted fire control supplements optical tracking with more electronic ranging. Targets can be detected and engaged reliably in poor visibility and at extended ranges.
+$technology_desc_aim_rangefinder_12;Improved processing and stabilized directors provide faster target acquisition and more accurate range solutions. Fire control remains effective during heavy maneuvering and adverse sea conditions.
+$technology_desc_aim_rangefinder_13;Advanced radar fire control combines precision ranging, stabilized tracking, and refined automated ballistic computation. Engagements are accurate at long range, day or night, with minimal dependence on visual contact.
+$technology_desc_aim_rangefinder_9;A stereoscopic Rangefinder of greater lenght and width, offering improved accuracy. It is heavier and more expensive.
+$component_name_short_rangefinder_radar_4; Gen IV
+$technology_name_aim_rangefinder_17;Radar Rangefinder I
+$technology_desc_aim_rangefinder_17;The Radar is a revolutionary device using Radiowaves to detect targets over high distances. This technology gives a massive advantage for purpose build ships featuring this device.
+$technology_name_aim_rangefinder_18;Radar Rangefinder II
+$technology_desc_aim_rangefinder_18;A Improved Radar offers increased accuracy over longer Distances
+$technology_name_aim_rangefinder_19;Radar Rangefinder III
+$technology_desc_aim_rangefinder_19;Enhanced Radar technology offers highly increased accuracy over longer Distances
+$technology_name_aim_rangefinder_20;Radar Rangefinder IV
+$technology_desc_aim_rangefinder_20;Modern Radar technology offers massively increased accuracy over extreme Distances
+$component_name_short_armor_0;Iron plate early
+$technology_name_armor_quality_1;Early Iron Plate Armor
+$technology_desc_armor_quality_1;First Armor used by Ironclads since the first projects. Not very special, but plentiful and cheap.
+$component_name_short_armor_1;Iron Plate
+$technology_name_armor_quality_2;Standard Iron Plate Armor
+$technology_desc_armor_quality_2;Improved Armor used by later Ironclads, giving them good survivability while balancing weight and cost.
+$component_name_short_armor_2;Iron Plate riveted
+$technology_name_armor_quality_3;Advanced Riveted Iron Plate Armor
+$technology_desc_armor_quality_3;Experimental Riveted Iron Armor used early by special projects. It gives better results but is expensive and is somewhat difficult to handle. Very good early protection, but at a price.
+$component_name_short_armor_3;Compound
+$technology_name_armor_quality_4;Compound Armor
+$technology_desc_armor_quality_4;Compound armor is produced by using multiple layers of different armor to improve protection. Early versions usually tried to mix different iron and steel versions to effectively combine cost and protection.
+$component_name_short_armor_4;Nickel-Steel early
+$technology_name_armor_quality_5;Early Nickel-Steel Armor
+$technology_desc_armor_quality_5;Nickel-Steel seemed to be the frontrunner for great Armor at this moment and has been developed to give better protection.
+$component_name_short_armor_5;Nickel-Steel
+$technology_name_armor_quality_6;Nickel-Steel Armor
+$technology_desc_armor_quality_6;Production Variant Nickel-Steel gives great protection slightly reducing cost and effectiveness, giving a great allround armor variant.
+$component_name_short_armor_6;Harvey Armor
+$technology_name_armor_quality_7;Harvey Armor
+$technology_desc_armor_quality_7;The Harvey Process improves on the Nickel-Steel Armor by hardening the surface. This increases cost but gives way better results in return.
+$component_name_short_armor_7;Harvey Compound
+$technology_name_armor_quality_8;Harvey Compound Armor
+$technology_desc_armor_quality_8;The Harvey Process improves on the Nickel-Steel Armor by hardening the surface. Adding further Compounding layers gives a great boost on overall effectiveness, but adds complexity to the process. At Massive cost and Production risk, it is a choice but need to be well thought out.
+$component_name_short_armor_8;Harvey Experimental
+$technology_name_armor_quality_9;Experimental Harvey Armor
+$technology_desc_armor_quality_9;By adding super-hardening into the Harvey Process, the Armor is improved further. Armor effectiveness is above normal Harvey, and the weight is reduced. It further adds complexity to the process making it prone to defects and errors. Massive cost and Production risk but great protection.
+$component_name_short_armor_9;Early Krupp
+$technology_name_armor_quality_10;Early version Krupp Armor
+$technology_desc_armor_quality_10;First Version of the well-known Krupp armor, adding Chromium and Carbon to the process makes this outstanding armor for its time.
+$component_name_short_armor_10;Krupp
+$technology_name_armor_quality_11;Standard Krupp Armor
+$technology_desc_armor_quality_11;The Standard Krupp Armor from the early 20th Century. Expensive but very effective.
+$component_name_short_armor_11;Krupp I advanced
+$technology_name_armor_quality_12;Advanced Krupp I Armor
+$technology_desc_armor_quality_12;Advanced Version of the First Krupp armor Variant, adding special coating and Harvey hardening methods.
+$component_name_short_armor_12;Krupp II
+$technology_name_armor_quality_13;Krupp II Armor
+$technology_desc_armor_quality_13;Improved Version of the Standard Krupp Armor with new Formula. Still Expensive and still very effective.
+$component_name_short_armor_13;Krupp II advanced
+$technology_name_armor_quality_14;Advanced Krupp II Armor
+$technology_desc_armor_quality_14;Advancements in the new Krupp II armor Variant are made by adding new trace metals into the Production combined with Harvey-like hardening methods. Very experimental still, and expensive.
+$component_name_short_armor_14;Krupp III
+$technology_name_armor_quality_15;Krupp III Armor
+$technology_desc_armor_quality_15;Newest Version of the Krupp Armor based on advances in metallurgy making it possible to refine the density and spread of carbon traces. This Variant is so strong, that it was classified as Krupp III, starting a new Era of high powered armor.
+$component_name_short_armor_15;Krupp III advanced
+$technology_name_armor_quality_16;Advanced Krupp III Armor
+$technology_desc_armor_quality_16;Advancements in Krupp Armor are made by new Production methods and coatings. Improved effectiveness for all applications.
+$component_name_short_armor_16;Krupp III super
+$technology_name_armor_quality_17;Improved Krupp III Armor
+$technology_desc_armor_quality_17;Super Version of Krupp III Armor. Combining the hardening processes of Harvey Super Armor with newest Advancements in Armor development.
+$component_name_short_armor_17;Krupp experimental
+$technology_name_armor_quality_18;Experimental late Krupp Armor
+$technology_desc_armor_quality_18;Experimental first version of a Krupp IV Armor which can be considered still in trials. Offers Reduced Armor weight, massive Armor protection and Immense advancements in Structural integrity for ships. Massively expensive and risky to use.
+$component_name_short_armor_18;Modern Armor
+$technology_name_armor_quality_19;Modern Armor
+$technology_desc_armor_quality_19;Most versatile and modern Ship Armor in the 20th Century. Mass production make this an excellent versatile choice, very effective.
+$component_name_short_armor_19;Modern improved
+$technology_name_armor_quality_20;Improved Modern Armor 
+$technology_desc_armor_quality_20;Advancements in the most Modern armor Variant are made by adding new trace metals into the Production combined with special coat-hardening methods. Very experimental and immensely expensive, yet also lightweight.
+$component_name_short_armor_20;Modern experimental
+$technology_name_armor_quality_21;Experimental Modern Armor
+$technology_desc_armor_quality_21;Experimental Modern Ship Armor. Offers massively Reduced Armor weight, highest Armor protection. Needs special facilities for production and application, making it immensely expensive.
+$technology_name_gun_mech_4_1;Turret Control I
+$technology_desc_gun_mech_4_1;By making sure that firing and engagement controls are properly set up, it is possible to reduce the rotation time
+$technology_name_gun_mech_4_2;Turret Control II
+$technology_desc_gun_mech_4_2;By making sure that firing and engagement controls are renewed and readjusted, it is possible to further reduce the rotation time
+$techType_name_gun_tech;Gun Components
+$techType_tooltip_gun_tech;- Develops loading speed Components for Turrets\n -Develops advancements in turret rotation speeds
+$technology_name_hull_construction_15;Massproduction
+$technology_desc_hull_construction_15;Mass Production technologies offer increased production speed but adds risk of smaller errors.
+$technology_name_hull_construction_16;Automated Production
+$technology_desc_hull_construction_16;Automation in production increases production speed further, but may lead to quality shifts and minor issues
+$technology_name_hull_construction_17;Factory Docks
+$technology_desc_hull_construction_17;Factory style docks offer better output and increases the keels structure due to better production methods but may lead to an increase of defects due massive needs of workforce but shortages in skilled labour
+$technology_name_gun_mech_41_1;Main Gun Length Limit on Maximum
+$technology_name_gun_mech_18_1;Improved Reload for Twin Turrets I
+$technology_name_gun_mech_18_2;Improved Reload for Twin Turrets II
+$technology_name_gun_mech_18_3;Improved Reload for Twin Turrets III
+$technology_name_gun_mech_21_1;Improved Reload for Triple Turrets I
+$technology_name_gun_mech_21_2;Improved Reload for Triple Turrets II
+$technology_name_gun_mech_24_1;Improved Reload for All Turrets I
+$technology_name_gun_mech_24_2;Improved Reload for All Turrets II
+$component_name_short_radio_1_1;Flashing Lamps
+$technology_name_tactics_comm_3_1;Light Signaling Communication Room
+$technology_desc_tactics_comm_3_1;A dedicated compartment centralizes visual signaling equipment and trained personnel. Improves coordination by reducing delays in transmitting orders across the ship and fleet.
+$component_name_short_radio_1;Morse
+$technology_name_tactics_comm_3;Wireless Telegraphy
+$technology_desc_tactics_comm_3;Early wireless telegraphy enables communication beyond visual range using coded signals. Transmission is slow and vulnerable to interference but greatly extends fleet coordination.
+$component_name_short_radio_1_2;Wave Radio
+$technology_name_tactics_comm_3_2;Wave Transmission Radio
+$technology_desc_tactics_comm_3_2;Continuous wave transmitters provide clearer and more stable signals than spark systems. Messages can be sent faster and over longer distances with improved reliability.
+$component_name_short_radio_2_1;Voice Radio
+$technology_name_tactics_comm_4_1;Amplitude Modulation Radio
+$technology_desc_tactics_comm_4_1;Amplitude modulation enables direct voice communication over radio. Commands can be issued instantly, greatly improving reaction time and tactical flexibility.
+$compTypes_name_radio;Signaling
+$component_name_short_gun_reload_1;Improved
+$technology_name_gun_mech_11;Improved Turret Reload Enhancement
+$technology_desc_gun_mech_11;Improving the turret reload by changing turret and gun design to adjust to faster reloading times
+$component_name_short_gun_reload_1_1;Loading deck
+$technology_name_gun_mech_11_1;Loading Deck Turret Enhancement
+$technology_desc_gun_mech_11_1;Adding a loading deck to each turret improve the turrets to be faster in reloading times at the cost of a potential explosive outcome
+$component_name_short_gun_reload_2;Early Speedloader
+$technology_name_gun_mech_14;Early Turret Speedloading Enhancement
+$technology_desc_gun_mech_14;Using the loading deck, adding a speedloader crane and smaller loadingboxes to each turret to further improve the turrets to be faster in reloading times at the cost of a potential explosive outcome
+$component_name_short_gun_reload_2_1;Electric Loader
+$technology_name_gun_mech_14_1;Electric Turret Loader Enhancement
+$technology_desc_gun_mech_14_1;Improving the turret reload by wiring the turret with automated ammunition belts, changing gun designs to maximize reload whilst keeping safety a relevant factor
+$component_name_short_gun_reload_3;Speedloader
+$technology_name_gun_mech_15;Advanced Turret Speedloading Enhancement
+$technology_desc_gun_mech_15;Enhancing the loading deck, adding speedloader cranes and ready racks to each turret to further improve the turrets to be faster in reloading times at the cost of safety
+$component_name_short_gun_reload_3_1;Piece by Piece
+$technology_name_gun_mech_15_1;Safety-Protocol driven Reloading Measures
+$technology_desc_gun_mech_15_1;Increasing turret safety by diespersing Ammunition into pieces which are stored separately until needed and only combined at the barrel one Round at a time. Reload is slowed but it further enhances safety and decreases risk of detonation when the turret is hit
+$component_name_short_gun_reload_4;Early Autoloader
+$technology_name_gun_mech_16;Early Autoloader Turret Enhancement
+$technology_desc_gun_mech_16;Readjusting and combining Loading deck and electrical enhancement to step to a new level by combining both into autoloading feeds for turret reload
+$component_name_short_gun_reload_4_1;Autoloader
+$technology_name_gun_mech_16_1;Autoloader Turret Enhancement
+$technology_desc_gun_mech_16_1;Enhancing early Autoloader technology, boosting autoloading feeds for increased reloading times at the cost of highly reduced turret rotation
+$component_name_short_gun_reload_4_2;Impr. Autoloader
+$technology_name_gun_mech_16_2;Modern Electric Loader Turret Enhancement
+$technology_desc_gun_mech_16_2;Improving the Electically assisted loading technology, further boosting loading times whilst reducing risk and hazards.
+$component_name_short_gun_reload_4_3;Modern Autoloader
+$technology_name_gun_mech_16_3;Modern Autoloader Turret Enhancement
+$technology_desc_gun_mech_16_3;Modern Autoloading tech combining all the advancement steps, perfecting the increase of loading time maximisation, further boosting loading feeds at the cost of massively reduced turret rotation
 $Ui_NewGame_DesignUsage_Mixed;AI Design Usage: Hybrid
 $Ui_NewGame_DesignUsage_FullGenerated;AI Design Usage: Bespoke
 $Ui_NewGame_DesignUsage_FullPredefined;AI Design Usage: Pregenerated
