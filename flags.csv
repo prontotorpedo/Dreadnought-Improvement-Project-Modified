@@ -4,7 +4,12 @@
 # britain,britain.png,britain.png,"Communists(britainCommunist.png), Democracy(britainRepublic.png)",
 # note that flags can be either PNG (no alpha channel) or JPG, and must be 256x128 pixels,,,
 @name,civilFlag,navalFlag,civilGovFlags,navalGovFlags
+britain,britain.png,britainNaval.png,"Monarchy(britain.png),Fascists(britain.png),Communists(UOB.png),Democracy(britainRepublic.png)","Monarchy(britainNaval.png),Fascists(britainNaval.png),Communists(UOB.png),Democracy(britainRepublic.png)"
+france,france.png,franceNaval.png,"Monarchy(france.png),Fascists(france.png),Communists(franceCommunist.png),Democracy(france.png)","Monarchy(franceNaval.png),Fascists(franceNaval.png),Communists(franceCommunist.png),Democracy(franceNaval.png)"
 germany,germanyMonarchy.png,germanyMonarchyNaval.png,"Monarchy(germanyMonarchy.png),Fascists(germanyFascist.png),Communists(germanyCommunist.png),Democracy(germanyGov.png)","Monarchy(germanyMonarchyNaval.png),Fascists(germanyFascistNaval.png),Communists(germanyGovNaval.png),Democracy(germanyGovNaval.png)"
 spain,spainMonarchy.png,spainMonarchy.png,"Monarchy(spainMonarchy.png),Fascists(spainFascist.png),Communists(spainCommunist.png),Democracy(spanishGov.png)","Monarchy(spainMonarchy.png),Fascists(spainNavalJack.png),Communists(spanishGov.png),Democracy(spanishGov.png)"
 austria,austriaMonarchy.png,austriaMonarchy.png,"Monarchy(austriaMonarchy.png),Fascists(austriaFascist.png),Communists(austriaCommunist.png),Democracy(austriaFantasyDemocracy.png)","Monarchy(austriaMonarchyNaval.png),Fascists(austriaFantasyDemocracyNaval2.png),Communists(austriaFantasyDemocracyNaval2.png),Democracy(austriaFantasyDemocracyNaval2.png)"
-,,,,
+ottoman,ottoman.png,ottomanNaval.png,"Monarchy(ottoman.png),Democracy(ottoman.png),Communists(ottoman.png),Fascists(ottoman.png)","Monarchy(ottomanNaval.png), Democracy(ottomanNaval.png),Communists(ottomanNaval.png),Fascists(ottomanNaval.png)"
+canada,canadaMonarchy.png,canadaMonarchy.png,"Monarchy(canadaMonarchy.png),Democracy(canadaMonarchy.png),Communists(canadaCommunist.png),Fascists(canadaFascist.png)","Monarchy(canadaMonarchy.png),Democracy(canadaMonarchy.png),Communists(canadaCommunist.png),Fascists(canadaFascist.png)"
+france2,france2.png,france2.png,"Monarchy(france2Monarchy.png),Democracy(france2.png),Communists(france2Communist.png),Fascists(france2.png)","Monarchy(france2Monarchy.png),Democracy(france2.png),Communists(france2Communist.png),Fascists(france2.png)"
+italy2,italy2.png,italy2.png,"Monarchy(italy2.png),Democracy(italy2.png),Communists(italy2Communist.png),Fascists(italy2Fascist.png)","Monarchy(italy2.png),Democracy(italy2.png),Communists(italy2Communist.png),Fascists(italy2Fascist.png)"
