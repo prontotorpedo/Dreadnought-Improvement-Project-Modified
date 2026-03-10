@@ -7,6 +7,7 @@ boilers,$compTypes_name_short_boilers,$compTypes_name_boilers,$comptypes_categor
 engine,$compTypes_name_short_engine,$compTypes_name_engine,$comptypes_category_propulsion,,assign,4,"needs_component(main_engine_7;fuel_oil_2), needs_component(main_engine_7;fuel_oil_3), needs_component(main_engine_7;fuel_oil_4), needs_component(main_engine_8;fuel_oil_2), needs_component(main_engine_8;fuel_oil_3), needs_component(main_engine_8;fuel_oil_4),
 needs_component(main_engine_9;fuel_oil_2), needs_component(main_engine_9;fuel_oil_3), needs_component(main_engine_9;fuel_oil_4)",,,,,,
 aux_eng,$compTypes_name_short_aux_eng,$compTypes_name_aux_eng,$comptypes_category_propulsion,"bb, bc, ca, cl, dd",,10,,,,,,,
+prop,Propeller number,Propeller number,$comptypes_category_propulsion,,assign,10,,,,,,,
 shaft,$compTypes_name_short_shaft,$compTypes_name_shaft,$comptypes_category_propulsion,"bb, bc, ca, cl, dd, tb",,10,,,,,,,
 rudder,$Ui_Battle_Rudder,$compTypes_name_rudder,$comptypes_category_propulsion,"bb, bc, ca, cl, dd, tb",assign,3,,,,,,,
 steering,$compTypes_name_short_steering,$compTypes_name_steering,$comptypes_category_propulsion,"bb, bc, ca, cl, dd, tb",assign,10,,,,,,,
