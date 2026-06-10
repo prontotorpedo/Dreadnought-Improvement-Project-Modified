@@ -1,7 +1,9 @@
-﻿$TAF_LoadError_HarmonyFail_Title;Version Mismatch
+$TAF_LoadError_HarmonyFail_Title;Version Mismatch
 $TAF_LoadError_HarmonyFail_Text;The installed version of <b>Tweaks and Fixes</b> doesn't match the installed version of Ultimate Admiral: Dreadnoughts. Patching has failed and your game will not funciton. Please either downgrade UAD to the correct version for your version of TAF, or download the correct version of TAF if available.
 $TAF_LoadError_DataFail_Title;TAF Installation Error
 $TAF_LoadError_DataFail_Text;<b>Tweaks and Fixes</b> was not installed properly and your game will not function. Please make sure you unzip the correct release of TAF to your Ultimate Admiral: Dreadnoughts folder and overwrite files if prompted. It is not enough to just copy the DLL.
+$TAF_LoadError_SteamFail_Title;Steam API Error
+$TAF_LoadError_SteamFail_Text;Failed to connect to the Steam API! Restart your computer and try again.
 $TAF_Ui_Constr_UpgradeMark;Upgrade Mark
 $TAF_Ui_Constr_UpgradeTorpMark;Upgrade\nTorpedo\nMark
 $TAF_Ui_Convert_ConvertedToJSON;Designs to JSON
@@ -49,6 +51,9 @@ $TAF_Ui_Settings_Confirm_Reset;Are you sure you want to reset all settings and c
 $TAF_Ui_Dockyard_TopBar_RotationIncrementControl;Increment\n{0}
 $TAF_tooltip_rotation_increment_control;Curent part rotation increment. Click or press [G] to change incrament.
 $TAF_Ui_Dockyard_TopBar_RotationValueControl;Rotation\n{0}
+$TAF_Ui_Dockyard_TopBar_SkirmishShipType;{0}\n{1}x {2} #{3}
+$TAF_tooltip_skirmish_ship_type_dropdown;Click to change the current shiptype.
+$TAF_Ui_Dockyard_Launch;Launch
 $TAF_tooltip_rotation_value_control;Curent part rotation plus default mount rotation. Click or press [F] to auto-orient the part.
 $TAF_Ui_Dockyard_ArmorTab_UpdateArmorQualitySetting;Update Armor Preview Setting
 $TAF_tooltip_update_armor_quality_setting;The armor quality slider does not match this ship's armor quality. Click to update the setting so gun penetration previews show the correct values.
@@ -84,4 +89,49 @@ $TAF_Ui_BatchShipGenerator_Failed;Failed
 $TAF_Ui_BatchShipGenerator_Succeeded;Succeeded
 $TAF_Ui_ReportShipScuttled;{0} was ordered to set scuttling charges due to high casualties!
 $TAF_Ui_ReportShipSurrendered;{0} has surrendered due to high casualties!
-$TAF_Ui_ReportShipScuttling;{0} is setting off it's scuttling charges!
+$TAF_Ui_ReportShipScuttling;{0} is setting off its scuttling charges!
+$TAF_Ui_Settings_ShowMapImage;Show Map Image
+$TAF_Ui_Settings_DeckPropCoverage;Deck Prop Coverage
+$TAF_Ui_SkirmishSettup_SharedDesignToggle_On;Shared Designs: On
+$TAF_Ui_SkirmishSettup_SharedDesignToggle_Off;Shared Designs: Off
+$TAF_Ui_SkirmishSettup_PredefDesignToggle_On;Pregenerated: On
+$TAF_Ui_SkirmishSettup_PredefDesignToggle_Off;Pregenerated: Off
+$TAF_tooltip_skirmish_shared_design_toggle;<b>On</b>: Will pick from availible Shared Designs if no design is made or chosen in the constructor.\n\n<b>Off</b>: If no design is made or chosen, a randomly generated or Predefiend Designs ship will be used instead.
+$TAF_tooltip_skirmish_predef_design_toggle;<b>On</b>: Will pick from the Predefined Designs file if no design is made or chosen in the constructor and no Shared Design is availible or if Shared Designs are <b>Off</b>.\n\n<b>Off</b>: If no design or Shared Design is made or chosen, a randomly generated ship will be used instead.
+$TAF_tooltip_launch_to_custom_battle;Begin the custom battle with the designs you selected.
+$TAF_UI_CheatMod_CheatMenu;Cheat Menu
+$TAF_UI_CheatMod_Give100Million;Give 100 Million
+$TAF_UI_CheatMod_Give1Billion;Give 1 Billion
+$TAF_UI_CheatMod_InstantBuildShips;Instant Build Ships
+$TAF_UI_CheatMod_InstantRepair; Instant Repair
+$TAF_UI_CheatMod_InstantResearch;Instant Research
+$TAF_UI_CheatMod_Close;Close
+$TAF_UI_CheatMod_CheatMenu_Tooltip;Cheater
+$TAF_UI_CheatMod_Give100Million_Tooltip;Give yourself 100 million in cash.
+$TAF_UI_CheatMod_Give1Billion_Tooltip;Give yourself 1 Billion in cash.
+$TAF_UI_CheatMod_InstantBuildShips_Tooltip;Sets any ship that is building to be 100% progress and will start commissioning next turn.
+$TAF_UI_CheatMod_InstantRepair_Tooltip;Sets any ship that is repairing to be 100% repaired and will clear the next turn. 
+$TAF_UI_CheatMod_InstantResearch_Tooltip;Sets the technologies you have tagged as "priority" or "focused" to 100% 
+$TAF_UI_CheatMod_Close_Tooltip;Closes the UI
+$TAF_Ui_MainMenu_ModUpdates;Mod Updates
+$TAF_Ui_MainMenu_ModUpdates_Tooltip;Check for mod updates.
+$TAF_Ui_MainMenu_TAFUpdates;TAF Updates
+$TAF_Ui_MainMenu_TAFUpdates_Tooltip;Check for Tweaks and Fixes updates.
+$TAF_Ui_FadeText_GameSaved;Game Saved!
+$TAF_Ui_FadeText_DesignSaved;Design Saved!
+$TAF_Ui_Constructor_UpdateTechs;Update Techs
+$TAF_Ui_Constructor_UpdateTechsBody;Do you want the cloned design to use the latest tech unlocks?
+$TAF_month_short_January;Jan.
+$TAF_month_short_February;Feb.
+$TAF_month_short_March;Mar.
+$TAF_month_short_April;Apr.
+$TAF_month_short_May;May
+$TAF_month_short_June;Jun.
+$TAF_month_short_July;Jul.
+$TAF_month_short_August;Aug.
+$TAF_month_short_September;Sep.
+$TAF_month_short_October;Oct.
+$TAF_month_short_November;Nov.
+$TAF_month_short_December;Dec.
+$TAF_Ui_Settings_RefitDateFormat;Refit Date Format
+$TAF_Ui_Event_GovernmentBailout;Government Bailout
