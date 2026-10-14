@@ -135,3 +135,17 @@ $TAF_month_short_November;Nov.
 $TAF_month_short_December;Dec.
 $TAF_Ui_Settings_RefitDateFormat;Refit Date Format
 $TAF_Ui_Event_GovernmentBailout;Government Bailout
+$TAF_Ui_Settings_OceanTypeDropdown;Ocean Type
+$TAF_Ui_Settings_OceanTypeDropdownOptions_Default;Default
+$TAF_Ui_Settings_OceanTypeDropdownOptions_Simple;Simple
+$TAF_Ui_Settings_OceanTypeDropdownOptions_None;None
+$TAF_Ui_Settings_RestartRequiredHeader;Restart Required!
+$TAF_Ui_Settings_RestartRequiredBody;You need to restart the game for the changes to apply.
+$TAF_Ui_Settings_SharedModeDropdown;Shared Design Usage
+$TAF_Ui_Settings_SharedModeDropdown_Off;Off
+$TAF_Ui_Settings_SharedModeDropdown_Selective;Selective
+$TAF_Ui_Settings_SharedModeDropdown_Always;Always
+$TAF_Ui_Settings_PredefModeDropdown;Predef Design Usage
+$TAF_Ui_Settings_PredefModeDropdown_Off;Off
+$TAF_Ui_Settings_PredefModeDropdown_Mixed;Mixed
+$TAF_Ui_Settings_PredefModeDropdown_Always;Always
