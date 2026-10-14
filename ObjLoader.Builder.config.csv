@@ -1,0 +1,6 @@
+@name,value
+class_data,builder/classdata.tpk
+template,builder/template
+material_template,builder/materials
+assets_folder,assets
+compression_quality,1

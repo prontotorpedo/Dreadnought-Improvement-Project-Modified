@@ -157,3 +157,13 @@ $TAF_Ui_BatchShipGenerator_Nations;Nations
 $TAF_Ui_BatchShipGenerator_Types;Types
 $TAF_Ui_BatchShipGenerator_NumShips;Num Ships Per
 $TAF_Ui_War_WhitePeace;The War has been very quiet...\n{0} {1} asks you if we should ask for a white peace.
+$technology_desc_armor_forging_6;Extra layers of armor behind the main belt and above the citadel, protecting the ship's vitals especially against plunging fire. A second inner deck can be used with this armor scheme which is especially effective in long range fights.\n\n*Warning* Complex armor layouts increase the chance of construction flaws.
+$technology_desc_armor_forging_8;The methods for the most efficient armor utilization, protecting the ship's vitals especially against plunging fire. Up to three extra inner armor layers can be used with this armor scheme which is especially effective in long range fights.\n\n*Warning* Complex armor layouts increase the chance of construction flaws.
+$technology_desc_surv_hull_5;The ship's side armor below the waterline is enhanced with double torpedo bulkheads that can absorb the energy of a torpedo hit or mine.
+$technology_desc_surv_hull_6;The ship's side armor below the waterline is enhanced with triple torpedo bulkheads increasing further the protection against torpedoes and mines.
+$technology_desc_surv_hull_7;The ship's side armor below the waterline is enhanced with quadruple torpedo bulkheads increasing further the protection against torpedoes and mines.
+$technology_name_armor_forging_6;All or Nothing armor scheme
+$technology_name_armor_forging_8;Improved All or Nothing armor scheme
+$technology_name_surv_internal_5;Underwater protected deck I
+$technology_name_surv_internal_6;Armored Citadel
+$technology_name_surv_internal_7;Turtleback Armor Scheme

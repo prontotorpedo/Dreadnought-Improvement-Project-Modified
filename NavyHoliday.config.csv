@@ -1,0 +1,5 @@
+name,value,comment
+capacity_limit_multiplier_dock,1;-1,"该项作用于控制最大尺寸。注意每一级是对上一级做差之后的数字。/ Controls conversion of dockyard by stairs to new logic max tonnage limit. Format as rate1;tonnage1, rate2;tonnage2, … and finally rateN;-1 for rest."
+capacity_limit_multiplier_home,0.15,本土港口吨位对于造船能力的贡献。原始值为0.11。/ Home province port tonnage contribution to shipbuilding capacity. Vanilla to be 0.11.
+capacity_limit_multiplier_away,0.05,海外港口吨位对于造船能力的贡献。原始值为0。 / Other controlled province port tonnage contribution to shipbuilding capacity. Vanilla to be 0 for non-home provinces.
+capacity_limit_multiplier_Ai,1.8,"AI造船能力的加成系数 / overall multiplier for AI only to enlarge building capacity for AI players, in order to reduce stucks of capital ship building, or just to add difficulty."

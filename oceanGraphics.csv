@@ -1,0 +1,5 @@
+#,?,Wind wakes,?,Horizontal scale of the wave normal texture,Horizontal and vertical wave scale,Light scatternig noraml scale,Sim resolution,?,?,?,?
+@name,ampFactor,choppiness,dirDependency,normalScale,scale,scatterNormalScale,simSize,specularNormalScale,timeScale,windDirAngle,windSpeed
+A,0.00025,5,0.037,1,"(0.003, 0.004)",3.17,256,4.56,0.13,0,3319
+B,0.00009,3.35,0.094,1,"(0.025,0.025)",0,128,5,0.203,0,1994
+C,0.0007,3.5,0.15,0.6,"(0.002,0.0023)",1.2,512,5,0.06,0,283
